@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T03:24:06.388Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="rMXQce8dwhhoTXPisAqy" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T03:26:00.241Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="8-pbs7UWbDwSvlrGP5wc" version="15.3.8" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1969" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0ATtvQx_eCqMF_4VbvH7-56" value="Produto" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="946" width="160" height="176" as="geometry" />
+          <mxGeometry x="340" y="946" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0ATtvQx_eCqMF_4VbvH7-103" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=-0.014;entryY=0.782;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0ATtvQx_eCqMF_4VbvH7-56" source="0ATtvQx_eCqMF_4VbvH7-102">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -129,7 +129,7 @@
           <mxGeometry y="78" width="160" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0ATtvQx_eCqMF_4VbvH7-59" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0ATtvQx_eCqMF_4VbvH7-56">
-          <mxGeometry y="106" width="160" height="70" as="geometry" />
+          <mxGeometry y="106" width="160" height="34" as="geometry" />
         </mxCell>
         <mxCell id="0ATtvQx_eCqMF_4VbvH7-60" value="Compra" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="160" height="86" as="geometry" />
@@ -208,7 +208,7 @@
             <mxPoint x="306.57908579204536" y="393.99999999999955" as="sourcePoint" />
             <mxPoint x="269.9999999999998" y="478.0020000000004" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250" y="640" />
+              <mxPoint x="260" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -248,8 +248,8 @@
             <mxPoint x="570" y="539.9999999999998" as="sourcePoint" />
             <mxPoint x="440" y="466" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="820" />
-              <mxPoint x="60" y="850" />
+              <mxPoint x="250" y="830" />
+              <mxPoint x="38" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
