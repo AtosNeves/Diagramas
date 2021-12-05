@@ -18,6 +18,6 @@
 <hr>
 
 ### Exercício:
-**Desenhe o diagrama de casos de uso**
+**Desenhe o diagrama de casos de uso**<br>
 **Desenhe o diagrama de classes completo**
 
