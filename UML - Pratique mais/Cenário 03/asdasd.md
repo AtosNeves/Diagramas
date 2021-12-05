@@ -4,6 +4,7 @@
 
 # Cenário 03: Testes de Fixação
  
+    
     Mariana prepara diversos exercícios para suas filhas que estão na primeira e na 
 segunda séries. Ela gostaria de informatizar esses exercícios, para gerar testes  
 aleatórios. Cada teste gerado deve ser guardado (acompanhado de suas questões), 
@@ -19,7 +20,8 @@ de que bimestre é cada questão e a que matéria pertence. O gabarito também �
 
 ## Por exemplo:
 
-	Para a disciplina de matemática, Mariana prepara um teste com 20 questões. Cada questão 
+	
+    Para a disciplina de matemática, Mariana prepara um teste com 20 questões. Cada questão 
 corresponde a um bimestre (1º, 2º, 3º ou 4º) e a matéria (ex: adição, divisão, números pares
  e ímpares, números primos, sinônimos etc.). Cada matéria corresponde a uma disciplina 
 (adição - matemática; sinônimos - português etc).
